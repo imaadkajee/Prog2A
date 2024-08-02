@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\idris\\OneDrive\\Desktop\\ProgPoeFinal\\ProgPoeFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D03863D7-9492-482A-AFE3-3CE4105D407B}|ImaadPoeFinal.csproj|c:\\users\\idris\\onedrive\\desktop\\progpoefinal\\progpoefinal\\filterrecipesdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03863D7-9492-482A-AFE3-3CE4105D407B}|ImaadPoeFinal.csproj|solutionrelative:filterrecipesdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03863D7-9492-482A-AFE3-3CE4105D407B}|ImaadPoeFinal.csproj|c:\\users\\idris\\onedrive\\desktop\\progpoefinal\\progpoefinal\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03863D7-9492-482A-AFE3-3CE4105D407B}|ImaadPoeFinal.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03863D7-9492-482A-AFE3-3CE4105D407B}|ImaadPoeFinal.csproj|c:\\users\\idris\\onedrive\\desktop\\progpoefinal\\progpoefinal\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03863D7-9492-482A-AFE3-3CE4105D407B}|ImaadPoeFinal.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03863D7-9492-482A-AFE3-3CE4105D407B}|ImaadPoeFinal.csproj|c:\\users\\idris\\onedrive\\desktop\\progpoefinal\\progpoefinal\\inputdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03863D7-9492-482A-AFE3-3CE4105D407B}|ImaadPoeFinal.csproj|solutionrelative:inputdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03863D7-9492-482A-AFE3-3CE4105D407B}|ImaadPoeFinal.csproj|C:\\Users\\idris\\OneDrive\\Desktop\\ProgPoeFinal\\ProgPoeFinal\\step.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03863D7-9492-482A-AFE3-3CE4105D407B}|ImaadPoeFinal.csproj|solutionrelative:step.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03863D7-9492-482A-AFE3-3CE4105D407B}|ImaadPoeFinal.csproj|C:\\Users\\idris\\OneDrive\\Desktop\\ProgPoeFinal\\ProgPoeFinal\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03863D7-9492-482A-AFE3-3CE4105D407B}|ImaadPoeFinal.csproj|solutionrelative:recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D03863D7-9492-482A-AFE3-3CE4105D407B}|ImaadPoeFinal.csproj|C:\\Users\\idris\\OneDrive\\Desktop\\ProgPoeFinal\\ProgPoeFinal\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D03863D7-9492-482A-AFE3-3CE4105D407B}|ImaadPoeFinal.csproj|solutionrelative:ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ProgPoeFinal\\ProgPoeFinal\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ProgPoeFinal\\ProgPoeFinal\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:30:54.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilterRecipesDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ProgPoeFinal\\ProgPoeFinal\\FilterRecipesDialog.xaml.cs",
+              "RelativeDocumentMoniker": "FilterRecipesDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ProgPoeFinal\\ProgPoeFinal\\FilterRecipesDialog.xaml.cs",
+              "RelativeToolTip": "FilterRecipesDialog.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:30:48.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ProgPoeFinal\\ProgPoeFinal\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ProgPoeFinal\\ProgPoeFinal\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAANUAAAAAAAAAAAAqwM0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:30:31.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ProgPoeFinal\\ProgPoeFinal\\InputDialog.xaml.cs",
+              "RelativeDocumentMoniker": "InputDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ProgPoeFinal\\ProgPoeFinal\\InputDialog.xaml.cs",
+              "RelativeToolTip": "InputDialog.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:30:26.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Step.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ProgPoeFinal\\ProgPoeFinal\\Step.cs",
+              "RelativeDocumentMoniker": "Step.cs",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ProgPoeFinal\\ProgPoeFinal\\Step.cs",
+              "RelativeToolTip": "Step.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:08:21.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ProgPoeFinal\\ProgPoeFinal\\Recipe.cs",
+              "RelativeDocumentMoniker": "Recipe.cs",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ProgPoeFinal\\ProgPoeFinal\\Recipe.cs",
+              "RelativeToolTip": "Recipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:08:18.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\idris\\OneDrive\\Desktop\\ProgPoeFinal\\ProgPoeFinal\\Ingredient.cs",
+              "RelativeDocumentMoniker": "Ingredient.cs",
+              "ToolTip": "C:\\Users\\idris\\OneDrive\\Desktop\\ProgPoeFinal\\ProgPoeFinal\\Ingredient.cs",
+              "RelativeToolTip": "Ingredient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T14:06:53.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
